@@ -1,0 +1,60 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    padding: 50px 100px;
+}
+
+.heading {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.download-link {
+    color: aquamarine;
+}
+
+.image-container {
+    margin: 50px auto;
+    
+}
+
+.video {
+    width: 400px;
+}
+
+.image{
+    margin: 50px auto;
+    width: 800px;
+}
+
+.subheading {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+.icon-container {
+    margin-bottom: 20px;
+}
+
+.coming-soon {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.copyright {
+    text-align: right;
+    padding: 20px;
+    color: gray
+}
