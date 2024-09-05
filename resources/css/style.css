@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    padding: 50px 100px;
+    padding: 50px 50px;
 }
 
 .heading {
@@ -30,7 +30,7 @@ body {
 }
 
 .image{
-    margin: 50px auto;
+    
     width: 800px;
 }
 
